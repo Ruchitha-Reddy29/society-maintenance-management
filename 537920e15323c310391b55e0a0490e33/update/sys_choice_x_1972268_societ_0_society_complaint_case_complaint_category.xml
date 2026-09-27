@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="complaint_category" table="x_1972268_societ_0_society_complaint_case" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>complaint_category</element>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:35</sys_created_on>
+            <sys_id>a19178a15367c310391b55e0a0490e28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>complaint_category</sys_name>
+            <sys_package display_value="Society Maintenance Management" source="x_1972268_societ_0">537920e15323c310391b55e0a0490e33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Society Maintenance Management">537920e15323c310391b55e0a0490e33</sys_scope>
+            <sys_update_name>sys_choice_x_1972268_societ_0_society_complaint_case_complaint_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electrical</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a99178a15367c310391b55e0a0490e27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:35</sys_updated_on>
+            <value>electrical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Plumbing</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a99178a15367c310391b55e0a0490e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:36</sys_updated_on>
+            <value>plumbing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HVAC</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>259178a15367c310391b55e0a0490e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:36</sys_updated_on>
+            <value>hvac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Civil</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad9178a15367c310391b55e0a0490eb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:36</sys_updated_on>
+            <value>civil</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>719178a15367c310391b55e0a0490ed3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:36</sys_updated_on>
+            <value>security</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Water Suppy</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f991b8a15367c310391b55e0a0490e00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:36</sys_updated_on>
+            <value>water_suppy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Elevator</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7591b8a15367c310391b55e0a0490e2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:36</sys_updated_on>
+            <value>elevator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generator</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3991b8a15367c310391b55e0a0490e4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:36</sys_updated_on>
+            <value>generator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>complaint_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>other</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b191b8a15367c310391b55e0a0490e7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:36</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

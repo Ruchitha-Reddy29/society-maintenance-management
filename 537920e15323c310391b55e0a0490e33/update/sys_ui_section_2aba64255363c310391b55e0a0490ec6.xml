@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2aba64255363c310391b55e0a0490ec6" sys_domain="global" table="x_1972268_societ_0_society_complaint_case" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>bebaa4255363c310391b55e0a0490e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>6eba64255363c310391b55e0a0490ecc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>3ebaa4255363c310391b55e0a0490e14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sn_app_cs_social_social_profile</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>7aba64255363c310391b55e0a0490ecf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>7ebaa4255363c310391b55e0a0490e16</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_id>eaba64255363c310391b55e0a0490ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>consumer</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>7ebaa4255363c310391b55e0a0490e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requesting_service_organization</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_id>2eba64255363c310391b55e0a0490eca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>fabaa4255363c310391b55e0a0490e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>2aba64255363c310391b55e0a0490ecd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_base</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>f6baa4255363c310391b55e0a0490e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner_contact</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>f6baa4255363c310391b55e0a0490e0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>3abaa4255363c310391b55e0a0490e17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_id>a6ba64255363c310391b55e0a0490ec9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>needs_attention</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>3abaa4255363c310391b55e0a0490e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_id>e6ba64255363c310391b55e0a0490ecb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_id>22ba64255363c310391b55e0a0490ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>b6baa4255363c310391b55e0a0490e13</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>e2ba64255363c310391b55e0a0490ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>b2baa4255363c310391b55e0a0490e16</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_organization</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>b2baa4255363c310391b55e0a0490e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>f2baa4255363c310391b55e0a0490e18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entitlement</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_id>62ba64255363c310391b55e0a0490eca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>f2baa4255363c310391b55e0a0490e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>a2ba64255363c310391b55e0a0490ecc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>72baa4255363c310391b55e0a0490e14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_id>beba64255363c310391b55e0a0490ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2aba64255363c310391b55e0a0490ec6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1972268_societ_0_society_complaint_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Society Maintenance Management" source="x_1972268_societ_0">537920e15323c310391b55e0a0490e33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Society Maintenance Management">537920e15323c310391b55e0a0490e33</sys_scope>
+            <sys_update_name>sys_ui_section_2aba64255363c310391b55e0a0490ec6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">37f1ba3b8c9103100a22deb6dd2b4eef</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

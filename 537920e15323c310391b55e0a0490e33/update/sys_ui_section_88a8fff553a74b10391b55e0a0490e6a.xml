@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Technician Work Tracking" section_id="88a8fff553a74b10391b55e0a0490e6a" sys_domain="global" table="wm_order" version="3" view="society_technician_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-26 17:29:25</sys_created_on>
+            <sys_id>ed09737953a74b10391b55e0a0490e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technician Work Tracking" display_value="Technician Work Tracking" name="wm_order" sys_domain="global" view="9425bbf953674b10391b55e0a0490e26">88a8fff553a74b10391b55e0a0490e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-26 17:29:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-26 17:29:25</sys_created_on>
+            <sys_id>ad09737953a74b10391b55e0a0490e6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technician Work Tracking" display_value="Technician Work Tracking" name="wm_order" sys_domain="global" view="9425bbf953674b10391b55e0a0490e26">88a8fff553a74b10391b55e0a0490e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-26 17:29:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-26 17:29:25</sys_created_on>
+            <sys_id>2d09737953a74b10391b55e0a0490e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technician Work Tracking" display_value="Technician Work Tracking" name="wm_order" sys_domain="global" view="9425bbf953674b10391b55e0a0490e26">88a8fff553a74b10391b55e0a0490e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-26 17:29:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-26 17:29:25</sys_created_on>
+            <sys_id>a909737953a74b10391b55e0a0490e6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technician Work Tracking" display_value="Technician Work Tracking" name="wm_order" sys_domain="global" view="9425bbf953674b10391b55e0a0490e26">88a8fff553a74b10391b55e0a0490e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-26 17:29:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_duration</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-26 17:29:25</sys_created_on>
+            <sys_id>2909737953a74b10391b55e0a0490e70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technician Work Tracking" display_value="Technician Work Tracking" name="wm_order" sys_domain="global" view="9425bbf953674b10391b55e0a0490e26">88a8fff553a74b10391b55e0a0490e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-26 17:29:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Technician Work Tracking</caption>
+            <header>false</header>
+            <name>wm_order</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-26 17:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88a8fff553a74b10391b55e0a0490e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>wm_order</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Society Maintenance Management" source="x_1972268_societ_0">537920e15323c310391b55e0a0490e33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Society Maintenance Management">537920e15323c310391b55e0a0490e33</sys_scope>
+            <sys_update_name>sys_ui_section_88a8fff553a74b10391b55e0a0490e6a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-26 17:27:42</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Society Technician View" name="society_technician_view">9425bbf953674b10391b55e0a0490e26</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

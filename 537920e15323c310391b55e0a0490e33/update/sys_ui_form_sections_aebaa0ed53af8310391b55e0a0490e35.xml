@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="aebaa0ed53af8310391b55e0a0490e35" sys_domain="global" table="x_1972268_societ_0_society_complaint_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72baa4255363c310391b55e0a0490e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1972268_societ_0_society_complaint_case" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">aebaa0ed53af8310391b55e0a0490e35</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490ec6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6baa4255363c310391b55e0a0490ef3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1972268_societ_0_society_complaint_case" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">aebaa0ed53af8310391b55e0a0490e35</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">febaa4255363c310391b55e0a0490ece</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3abaa4255363c310391b55e0a0490ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1972268_societ_0_society_complaint_case" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">aebaa0ed53af8310391b55e0a0490e35</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">febaa4255363c310391b55e0a0490e9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6aba64255363c310391b55e0a0490ec5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1972268_societ_0_society_complaint_case" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">aebaa0ed53af8310391b55e0a0490e35</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">2aba64255363c310391b55e0a0490e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3abaa4255363c310391b55e0a0490e9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1972268_societ_0_society_complaint_case" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">aebaa0ed53af8310391b55e0a0490e35</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">3abaa4255363c310391b55e0a0490e5e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aebaa0ed53af8310391b55e0a0490e35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1972268_societ_0_society_complaint_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Society Maintenance Management" source="x_1972268_societ_0">537920e15323c310391b55e0a0490e33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Society Maintenance Management">537920e15323c310391b55e0a0490e33</sys_scope>
+            <sys_update_name>sys_ui_form_sections_aebaa0ed53af8310391b55e0a0490e35</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">37f1ba3b8c9103100a22deb6dd2b4eef</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

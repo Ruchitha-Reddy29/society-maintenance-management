@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Major Case Information" section_id="40cae8255363c310391b55e0a0490ecd" sys_domain="global" table="x_1972268_societ_0_society_complaint_case" version="3" view="external_location_agent">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>major_case_state</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:43</sys_created_on>
+            <sys_id>04cae8255363c310391b55e0a0490ecf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="9052ee235b1602100c7609f8e281c7a5">40cae8255363c310391b55e0a0490ecd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_impact</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:43</sys_created_on>
+            <sys_id>cccae8255363c310391b55e0a0490ecf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="9052ee235b1602100c7609f8e281c7a5">40cae8255363c310391b55e0a0490ecd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>probable_cause</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:43</sys_created_on>
+            <sys_id>48cae8255363c310391b55e0a0490ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_1972268_societ_0_society_complaint_case" sys_domain="global" view="9052ee235b1602100c7609f8e281c7a5">40cae8255363c310391b55e0a0490ecd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Major Case Information</caption>
+            <header>false</header>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 07:49:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40cae8255363c310391b55e0a0490ecd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1972268_societ_0_society_complaint_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Society Maintenance Management" source="x_1972268_societ_0">537920e15323c310391b55e0a0490e33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Society Maintenance Management">537920e15323c310391b55e0a0490e33</sys_scope>
+            <sys_update_name>sys_ui_section_40cae8255363c310391b55e0a0490ecd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 07:49:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="External Location Agent" name="external_location_agent">9052ee235b1602100c7609f8e281c7a5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

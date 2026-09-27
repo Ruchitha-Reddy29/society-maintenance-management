@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="resident_severity" label="Resident Severity" language="en" table="x_1972268_societ_0_society_complaint_case">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>resident_severity</element>
+            <help/>
+            <hint/>
+            <label>Resident Severity</label>
+            <language>en</language>
+            <name>x_1972268_societ_0_society_complaint_case</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 08:19:31</sys_created_on>
+            <sys_id>e89134a15367c310391b55e0a0490edf</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Resident Severity</sys_name>
+            <sys_package display_value="Society Maintenance Management" source="x_1972268_societ_0">537920e15323c310391b55e0a0490e33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Society Maintenance Management">537920e15323c310391b55e0a0490e33</sys_scope>
+            <sys_update_name>sys_documentation_x_1972268_societ_0_society_complaint_case_resident_severity_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 08:19:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
