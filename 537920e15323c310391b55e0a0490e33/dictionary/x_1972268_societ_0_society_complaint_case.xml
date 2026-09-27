@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="a1baa0255363c310391b55e0a0490e78" extends="sn_customerservice_case" label="Society Complaint Case" max_length="40" name="x_1972268_societ_0_society_complaint_case" type="collection">
+        <element label="Complaint Location" max_length="40" name="complaint_location" type="string"/>
+        <element label="Duplicate Case" max_length="40" name="duplicate_case" type="boolean"/>
+        <element label="Configuration Item" max_length="32" name="configuration_item" reference="cmdb_ci" type="reference"/>
+        <element choice="1" label="Complaint Category" max_length="255" name="complaint_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="HVAC" sequence="2" value="hvac"/>
+                <element inactive_on_update="false" label="Generator" sequence="7" value="generator"/>
+                <element inactive_on_update="false" label="Security" sequence="4" value="security"/>
+                <element inactive_on_update="false" label="Elevator" sequence="6" value="elevator"/>
+                <element inactive_on_update="false" label="Electrical" sequence="0" value="electrical"/>
+                <element inactive_on_update="false" label="Plumbing" sequence="1" value="plumbing"/>
+                <element inactive_on_update="false" label="Civil" sequence="3" value="civil"/>
+                <element inactive_on_update="false" label="other" sequence="8" value="other"/>
+                <element inactive_on_update="false" label="Water Suppy" sequence="5" value="water_suppy"/>
+            </choice>
+        </element>
+        <element label="Recurring Failure" max_length="40" name="recurring_failure" type="boolean"/>
+        <element label="Block/Flat Number" max_length="40" name="block_flat_number" type="string"/>
+        <element choice="1" label="Complaint Scope" max_length="255" name="complaint_scope" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Flat/Unit" sequence="0" value="flat_unit"/>
+                <element inactive_on_update="false" label="Common Area" sequence="1" value="common_area"/>
+            </choice>
+        </element>
+        <element choice="3" default="low" label="Resident Severity" max_length="255" name="resident_severity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="0" value="low"/>
+                <element inactive_on_update="false" label="High" sequence="2" value="high"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="Critical" sequence="3" value="critical"/>
+            </choice>
+        </element>
+    </element>
+</database>

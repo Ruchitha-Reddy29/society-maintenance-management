@@ -5,7 +5,7 @@
         <description>Default user role</description>
         <elevated_privilege>false</elevated_privilege>
         <encryption_context/>
-        <federated_id/>
+        <federated_id>1gffUkJuaZuNp1+Jb0ah9SuyZ+d1qitB9ceZfy8Ayp8=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1972268_societ_0.user</name>

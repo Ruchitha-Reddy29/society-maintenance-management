@@ -5,7 +5,7 @@
         <description>Default admin role</description>
         <elevated_privilege>false</elevated_privilege>
         <encryption_context/>
-        <federated_id/>
+        <federated_id>hkonIhvppDauZ8OhRwBiJQJdvcGfrXtT+8B1tDmKVjg=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1972268_societ_0.admin</name>
